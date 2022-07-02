@@ -1,7 +1,7 @@
 # Xray Segmentation
 
 ### Problem Statement
-This problem comes from comes from a Kaggle Notebook, details [here]([https://www.kaggle.com/code/rostekus/lung-segmentation/data](https://www.kaggle.com/code/rostekus/lung-segmentation/data)). The task behind the notebook is to segment lungs via a U-net model, albeit without any EDA or proper description.
+This problem comes from comes from a Kaggle Notebook, details [here](https://www.kaggle.com/code/rostekus/lung-segmentation/data). The task behind the notebook is to segment lungs via a U-net model, albeit without any EDA or proper description.
 
 ### Background
 Tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) that most often affect the lungs. Tuberculosis is curable and preventable. A total of 1.5 million people died from TB in 2020 (including 214 000 people with HIV). Worldwide, TB is the 13th leading cause of death and the second leading infectious killer after COVID-19 (above HIV/AIDS). Using advanced tools and technology, automatic analysis and classification of chest X-rays (CXRs) into TB and non-TB can be a reliable alternative to the subjective assessment performed by healthcare professionals. 
